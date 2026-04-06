@@ -1,0 +1,4 @@
+package com.prova_RA_241026372.PROVA.model;
+
+public class ProdutoModel {
+}
